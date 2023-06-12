@@ -1,0 +1,392 @@
+
+/* MacBook Pro */
+#n1_2 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Rectangle 6 */
+	#n3_4 {
+		background: rgb(0, 45, 70);
+		left: 82px;
+		width: 126px;
+		height: 157px;
+	}
+ 
+	/* Rectangle 6.1 */
+	#n3_12 {
+		background: rgb(0, 45, 70);
+		left: 526px;
+		width: 126px;
+		top: 743px;
+		height: 157px;
+	}
+ 
+	/* Rectangle 2.1 */
+	#n3_0 {
+		left: 827px;
+		width: 285px;
+		top: 658px;
+		height: 57.9661px;
+	}
+ 
+	/* Rectangle 3 */
+	#n1_8 {
+		background: rgb(255, 251, 251);
+		left: 589px;
+		width: 752px;
+		top: 62px;
+		height: 776px;
+	}
+ 
+	/* Rectangle 4.1 */
+	#n1_13 {
+		background: rgb(196, 196, 196);
+		left: 756px;
+		width: 448px;
+		top: 430px;
+		height: 70px;
+	}
+ 
+	/* Rectangle 4.2 */
+	#n1_14 {
+		background: rgb(196, 196, 196);
+		left: 756px;
+		width: 448px;
+		top: 523px;
+		height: 70px;
+	}
+ 
+	/* Ellipse */
+	#n1_9 {
+		width: 94px;
+		height: 177px;
+		left: -51px;
+		top: 481px;
+	}
+ 
+	/* Polygon */
+	#n1_11 {
+		left: 1137px;
+		width: 491.268px;
+		top: 608px;
+		height: 490.138px;
+	}
+ 
+	/* Rectangle 4 */
+	#n1_12 {
+		background: rgb(196, 196, 196);
+		left: 756px;
+		width: 448px;
+		top: 337px;
+		height: 70px;
+	}
+ 
+	/* Create Account */
+	#n2_0 {
+		font-family: Arial;
+		font-size: 45px;
+		font-weight: 700;
+		letter-spacing: 0.9px;
+		color: rgb(0, 45, 70);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 343px;
+		transform: translate(0px, 0px);
+		line-height: 52.7344px;
+		height: 52px;
+		left: 798px;
+		top: 161px;
+	}
+ 
+	/* or use your email for registration */
+	#n2_1 {
+		font-family: Arial;
+		font-size: 20px;
+		font-weight: 400;
+		letter-spacing: 0.4px;
+		color: rgb(0, 0, 0);
+		opacity: 0.5;
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 301px;
+		transform: translate(0px, 0px);
+		line-height: 23.4375px;
+		height: 23px;
+		left: 814px;
+		top: 274px;
+	}
+ 
+	/* Rectangle 5 */
+	#n3_2 {
+		background: rgb(0, 45, 70);
+		border-radius: 30px;
+		left: 848px;
+		width: 306px;
+		top: 653px;
+		height: 63px;
+	}
+ 
+	/* SIGN UP */
+	#n3_3 {
+		font-family: Verdana;
+		font-size: 25px;
+		font-weight: 700;
+		letter-spacing: 0px;
+		color: rgb(255, 255, 255);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 121px;
+		transform: translate(0px, 0px);
+		line-height: 29.2969px;
+		height: 30px;
+		left: 934px;
+		top: 670px;
+	}
+ 
+	/* PinClipart */
+	#n3_5 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/f4bd/df5e/dca52fd785f0a231e23a9efb16f1a3fc?Expires=1569801600&Signature=CLJ1LtHSkIqYE3oul1xjwMEwAs~~p9npgEJujVgLU4z1zBkQOZxnYpqr54RpeS7m0OBV1YL2NJ6kzKFZou0Kwo0A8Fx7b4SDBOfhf-8~eQnzcxN7WiutTZeIJ6-xNkeAXN9sg9UDWGWs~jNYcKlELhHBe4DjTww6YMXJ8VNeVE4WWD0GA9Ns1qnOas-BfuRdamy8YSA6-E1yjA4I1CP00vI80Krvp1AZcT~ceTrHDD7zh8MwFekME3Hh3DW2QGqHe2hyoEggi7XoH5bCJHKm6Je0YhZguYzEGHhpH7mhmACx5mLMp2~I7sZCt7sMRKjfRyr3ZD~QdRq-DL5-yw1ltw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 768px;
+		width: 34px;
+		top: 355px;
+		height: 34px;
+	}
+ 
+	/* Name */
+	#n3_6 {
+		font-family: Verdana;
+		font-size: 22px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		opacity: 0.4;
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 65px;
+		transform: translate(0px, 0px);
+		line-height: 25.7812px;
+		height: 27px;
+		left: 815px;
+		top: 361px;
+	}
+ 
+	/* Password */
+	#n3_9 {
+		font-family: Verdana;
+		font-size: 22px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		opacity: 0.4;
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 104px;
+		transform: translate(0px, 0px);
+		line-height: 25.7812px;
+		height: 27px;
+		left: 812px;
+		top: 543px;
+	}
+ 
+	/* Email */
+	#n3_8 {
+		font-family: Verdana;
+		font-size: 22px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		opacity: 0.4;
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 61px;
+		transform: translate(0px, 0px);
+		line-height: 25.7812px;
+		height: 27px;
+		left: 814px;
+		top: 450px;
+	}
+ 
+	/* email */
+	#n3_7 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/f829/0e63/1fbd1781c79051ba2b5f2c2ccae27664?Expires=1569801600&Signature=YpLgkx2ZudGZVLVwq1E~C7PzkvD4hHy04ARJfbYOTDIxRHqWSyBBBLeJuP8KaRGAieqsUnOMTPYLBew1Ydh-RiPJRKM~whKZ~rDDVQmA4jg02RycHx1FmZhSHguGbPY3JBF3Kz6-1OqN7FOaoa7zTvT8gQNcjIs6XbizHllvTq5eru3mIB1eMhHnEwSyINnaR5ahHSKzxg1xR-2ohGpU5XMrDeo~~NiineR8i41NHmro-cU9FtoiF795KmJpc-tqn2qDTpNpmWzh0iPjr2RW3C9pndYkTs7NrMjG3v9t4quKBnN7BQrf~6Vt8kaPEBTTkiguY3DPm7DRHcBERwMlAQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 759px;
+		width: 48px;
+		top: 452px;
+		height: 26px;
+	}
+ 
+	/* PinClipart 2 */
+	#n3_10 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/3b47/e7ff/4f0216caabae6a1f9dc67aea0481db82?Expires=1569801600&Signature=Vu8KYa9OSYgowpUaD61pYSNTei3wt-QmbVKsLAgXZRkGd0gu4brtSdRYvcyRtBFmb3X4J5lfgyHkl0iAqDHOtQs9MxoQCouDBpwe57Yfuw6E5fgDRiYe00WzQ1FFR~YTxVJ2iAmQUpcSpniW1kaz4HhkrXL7LVvCdqfcOO1EnTACzuHuN44hP2oHlXROMOVacjVI3VR1v32ytQZt7M2GcIUfyIay1tcUypIdOPSiQNFRQ6~Mrt1fU5RhlOIqrwsaLA~88JU54iuyZhk-umENZ~hirISw14mzQC5uSsq22-KUTH9JtHaE7nENouCcgBZ5Rk8F3hY5~PL635i4-qev1A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 768px;
+		width: 30px;
+		top: 538px;
+		height: 32px;
+	}
+ 
+	/* Don’t have an account? */
+	#n3_11 {
+		font-family: Verdana;
+		font-size: 22px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		opacity: 0.4;
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 261px;
+		transform: translate(0px, 0px);
+		line-height: 25.7812px;
+		height: 27px;
+		left: 817px;
+		top: 742px;
+	}
+ 
+	/* Sign up. */
+	#n3_13 {
+		font-family: Verdana;
+		font-size: 22px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 45, 70);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 92px;
+		transform: translate(0px, 0px);
+		line-height: 25.7812px;
+		height: 27px;
+		left: 1081px;
+		top: 742px;
+	}
+ 
+	/* facebook */
+	#n3_15 {
+		width: 35px;
+		height: 35px;
+		overflow: hidden;
+		left: 1023px;
+		top: 226px;
+	}
+ 
+		/* Vector */
+		#n3_16 {
+			left: 0.00283378%;
+			right: -0.00209263%;
+		}
+ 
+	/* twitter_PNG1 */
+	#n3_49 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/9c0c/711f/1288358d1a69c0b92e81f3db8aa2d0b9?Expires=1569801600&Signature=NxPaNodRa-k8Ctm9gK7uQPWXPlbaBjBYm4sbPJ85GjjZYDdStP1tHb9dUnqbvBGKM4iw8opSneyLtEw9tmFSqy9tAJW1grZj~aJYuVP43sNMGEy8e9WKQbSj4J1Cou7EYviz4tUF4dxqYwDCEBEanLxoZDdu7ilfLQPTMXWwenmOOC0HAC0XxtS6MW~dRCtGwbh46jNPwB6L3xF5IZXuQjoJuy07532xeI2JhVWMSItcWY08g0sa28skJ~mb1GcDHW4PqIOxoS6TYimx8qWWeQIBcaT44pj-kjBiqlEt-pv6BQkCR9iNNV3pDqvQNwSTRqD40jpcMRPJssktQF56sA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 886px;
+		width: 36px;
+		top: 229px;
+		height: 29px;
+	}
+ 
+	/* Rectangle */
+	#n1_3 {
+		background: rgb(0, 44, 70);
+		left: 129px;
+		width: 463px;
+		top: 62px;
+		height: 776px;
+	}
+ 
+	/* light016 */
+	#n3_14 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/ac94/d430/61ae1820906625f037ecb4e7ee1b0e1a?Expires=1569801600&Signature=Y6-PERAOwm9as5yc323FZF3eUSZ6YXqt6T9ejzKlfD6gM-8PkcEmHYVZjHg0iKgHZzyAeqrgXlOen0Alz1EtRXjpQyWJ1Fb2kEvhznvkMi5Skazl3NqUM0w4HOHpbkEuKFXapCQo8CNjfWzC3-TYQeYQQZT3R9HWz4xC8FRU2oJflKC~Gm5Rm5MnbTM-VBEAh-pRTHsdaSW9Z5B5-b8nAGZ1cJ5PZ2dfMOcUhnU1-udtWoRcvtOH~fFCo5LET~mOWpDLzSanzF6fc9EH8Gj9uCqxZ1U8dTFwCbkDQDFz~AHAFWlGFaqU-ygPgCg7gXZJHYJYIx5pqMS40bRHxHCY4w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-repeat: no-repeat;
+		left: -41px;
+		width: 661px;
+		top: -39px;
+		height: 856px;
+	}
+ 
+	/* pngfind */
+	#n3_50 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/972c/6da9/9c20d2afc77a2afa0e885c1b5419c233?Expires=1569801600&Signature=A5Epm3kVkA4L3hJlFURJ5ki2WKU5O7dsOTSxibjBgLUzIjOKVOKA6eS0fVDySC2kV8dqu7E2NZ7YNq0HNeBGeNaQ5-R65uP-9OFOyvyj7h69xBXt49AqFFmmiVVhF-3vgJ1XKmQLH5dRqzxBSjPbSVy1RyUYa3YhDHh0gEnjagRWdzQinFOmwTSG48Q51WCsWNRRUnjc3TsI92Hoq6YUW4-uM8a-rjUMilc4KHlqOgUQAj6DgfwENO9t6igy2biNkBqtEvuDUESCrs2a7FeaoDUr3srcHXEmZYK2Z7elV4elLSdIYCddl9q4rg0CLl0K32-IyiiyNbGxenFkkALe0g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 960px;
+		width: 29px;
+		top: 232px;
+		height: 26px;
+	}
+ 
+	/* SIGN IN */
+	#n1_5 {
+		font-family: Verdana;
+		font-size: 25px;
+		font-weight: 700;
+		letter-spacing: 0px;
+		color: rgb(255, 255, 255);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 117px;
+		transform: translate(0px, 0px);
+		line-height: 29.2969px;
+		height: 30px;
+		left: 308px;
+		top: 526px;
+	}
+ 
+	/* Rectangle 2 */
+	#n1_4 {
+		left: 218px;
+		width: 285px;
+		top: 512px;
+		height: 57.9661px;
+	}
+ 
+	/* To keep connected with us please login with your personal info */
+	#n1_7 {
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(255, 255, 255);
+		vertical-align: middle;
+		text-align: center;
+		justify-content: center;
+		width: 271px;
+		transform: translate(0px, 0px);
+		line-height: 21.0938px;
+		height: 42px;
+		left: 230px;
+		top: 423px;
+	}
+ 
+	/* Welcome Back! */
+	#n1_6 {
+		font-family: Impact;
+		font-size: 50px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(255, 255, 255);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 319px;
+		transform: translate(0px, 0px);
+		line-height: 58.5938px;
+		height: 61px;
+		left: 208px;
+		top: 346px;
+	}
